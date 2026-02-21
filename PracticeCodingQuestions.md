@@ -106,3 +106,29 @@
 * Parking slots
 * Fee calculation
 
+---
+##  Advanced Level (Real-World Design)
+
+21. Design a File System
+* Create a system with files and folders where folders can contain other files or folders.
+* Use inheritance and the Composite pattern to manage hierarchy and size calculation.
+
+
+22. Design a Ride Sharing System
+* Build a system where users request rides and drivers are assigned automatically.
+* Implement fare calculation, ride tracking, and payment handling using good OOP design.
+
+
+23. Thread-Safe Singleton Logger
+* Create a logger class that allows only one object in the entire program.
+* Ensure it is thread-safe and prevents copying or multiple instances.
+
+
+24. Design a Notification System
+* Create a system that sends notifications via Email, SMS, or Push.
+* Design it so new notification types can be added without modifying existing code.
+
+
+25. Design a Smart Pointer from Scratch
+* Implement your own smart pointer that automatically manages memory.
+* Support ownership handling and prevent memory leaks using RAII principles.

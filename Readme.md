@@ -1,3 +1,82 @@
+#  How to Study This C++ OOP Repository Properly
+
+This repository is structured to take you from **beginner → intermediate → advanced** level in C++ Object-Oriented Programming. Follow this roadmap carefully to get maximum benefit.
+
+---
+
+## Best Learning Order
+
+Do not jump randomly between topics. Follow this structured order:
+
+1. **Fundamentals of OOP**
+   Understand the core concepts like encapsulation, abstraction, inheritance, and polymorphism.
+
+2. **Classes & Objects**
+   Learn how to create classes, objects, constructors, destructors, and understand object lifecycle.
+
+3. **Inheritance**
+   Study different types of inheritance and how base and derived classes interact.
+
+4. **Polymorphism**
+   Master function overloading, overriding, virtual functions, and runtime behavior.
+
+5. **Memory Management**
+   Understand `new`, `delete`, RAII, smart pointers, object lifetime, and memory leaks.
+
+6. **Advanced Topics**
+   Explore SOLID principles, design patterns, templates, RTTI, vtable, and internal mechanisms.
+
+ Following this order ensures strong conceptual clarity.
+
+---
+
+##  Study Method (Very Important)
+
+For **each question** in the repository, follow this 5-step approach:
+
+1. **Read the theory carefully**
+   Understand the concept before looking at code.
+
+2. **Write a small code example**
+   Do not copy-paste. Type it yourself.
+
+3. **Run the program**
+   Observe the output and behavior.
+
+4. **Modify the code**
+   Change access specifiers, remove `virtual`, add constructors, etc.
+
+5. **Break the code intentionally**
+   Create errors on purpose to understand:
+
+   * Compilation errors
+   * Runtime errors
+   * Logical mistakes
+
+ This method builds deep understanding instead of surface-level memorization.
+
+---
+
+##  Final Advice
+
+This repository is:
+
+* A complete **Beginner → Intermediate → Advanced roadmap**
+* Strong preparation material for technical interviews
+* Covers both **classic OOP concepts and modern C++ features**
+
+If you are just starting:
+
+- Master the first **40 questions deeply**
+- Then focus on **memory management concepts**
+- Finally move to **design principles and advanced topics**
+
+---
+
+
+
+
+
 ##  **TOP 100 C++ OOPS INTERVIEW QUESTIONS**
 
 ### **Fundamentals of OOP**
